@@ -1,3 +1,9 @@
+---
+title: Reporte del Proyecto
+date: 2024-02-18
+author: [Tu nombre]
+---
+
 # Reporte del Proyecto
 
 ## 1. Información General
