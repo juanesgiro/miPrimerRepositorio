@@ -1,6 +1,6 @@
 
 ---
-name: "📄 Document Report"
+name: "Document Report"
 about: "Reportar o documentar información relevante del proyecto."
 title: "[DOC] - Descripción corta"
 labels: documentation
