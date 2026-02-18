@@ -1,8 +1,11 @@
----
 title: Reporte del Proyecto
 date: 2024-02-18
 author: [Tu nombre]
----
+name: "📄 Document Report"
+about: "Reportar o documentar información relevante del proyecto."
+title: "[DOC] - Descripción corta"
+labels: documentation
+assignees: ""
 
 # Reporte del Proyecto
 
